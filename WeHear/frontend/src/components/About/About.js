@@ -5,8 +5,8 @@ function About() {
   return (
     <div>
         <p className='bold-center'>We're <span>LogicalVoids</span></p>
-        <p className='head'>We are a dynamic trio of web development aficionados with a passion for crafting cutting-edge digital experiences. Our team combines expertise in front-end development, back-end logic, and user-centric design to deliver seamless and captivating web solutions. With a relentless pursuit of innovation and a commitment to excellence, we're poised to make a lasting impact at the hackathon and beyond.</p>
-        <div className='bold-center'>About Gemini Match</div>
+        <p className='head'>We are a dynamic Duo of web development aficionados with a passion for crafting cutting-edge digital experiences. Our team combines expertise in front-end development, back-end logic, and user-centric design to deliver seamless and captivating web solutions. With a relentless pursuit of innovation and a commitment to excellence, we're poised to make a lasting impact at the hackathon and beyond.</p>
+        <div className='bold-center'>About WeHear</div>
         <div>
             <div className='about-ul'>
             <div className='flex-out'>
@@ -23,7 +23,7 @@ function About() {
             </div>
         </div>
         <div className='center'>For judges</div>
-        <p className='disclaimer'>The output of searches sometimes might show error. This is because the output of GeminiAPI is not in perfect JSON format always. Please refresh the page in that case.</p>
+        <p className='disclaimer'>The output of searches sometimes might show error. This is because the output of OpenAI is not in perfect JSON format always. Please refresh the page in that case.</p>
     </div>
   )
 }
