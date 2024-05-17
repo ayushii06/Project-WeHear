@@ -7,7 +7,7 @@
     display: flex;
     align-items: center;
     margin: auto;
-    gap: 36px;
+    gap: 27px;
 }
 
 .time{
@@ -30,7 +30,7 @@
     margin: 11vh auto;
     display: flex;
     flex-direction: column;
-    gap: 21px;
+    gap: 29px;
 }
 
 .day-name{
@@ -40,7 +40,10 @@ color: white;
 }
 
 .task{
+    font-weight: 600;
+    font-size: 12px;
     border-radius: 2px;
     background: white;
     padding: 8px;
+    width: 5vw;
 }

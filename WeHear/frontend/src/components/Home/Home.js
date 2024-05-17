@@ -47,7 +47,7 @@ const Home = () => {
     <div className="flex-container">
       <img src={logo}></img>
       <div className="flex-container col">
-      <p className="head">Unlock Your Potentials</p>
+      <p className="head-home">Unlock Your Potentials</p>
       <p className="subhead">Prioritise Your <span>Time</span></p>
       </div>
     </div>

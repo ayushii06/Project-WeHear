@@ -19,7 +19,7 @@ function Navbar() {
                 </ul>
 
                 <div className="visible">
-                    <Link to='/'><img className="image-svg user" src={user} alt="" /></Link></div>
+                    <Link to='/register'><img className="image-svg user" src={user} alt="" /></Link></div>
 {/* <div className="media-query" id="dropdown">
             <div className="navbar-container">
             <li><Link to="/">Home</Link></li>
